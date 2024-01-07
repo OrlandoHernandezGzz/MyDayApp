@@ -1,27 +1,29 @@
-# Todoapp
+# MyDayApp.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+Proyecto realizado con el objetivo de aprender los fundamentos de Angular, en donde se hace un registro de actividades en el día.
 
-## Development server
+En este proyecto se aprendió los siguientes fundamentos:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Crear un proyecto en angular.
+- Crear componentes.
+- Establecer rutas.
+- Propiedades binding.
+- Eventos binding.
+- Modelo de reactividad con Signals.
+- Directivas de control.
+- Formcontrol.
+- Estados compuestos con computed.
+- Effect para el uso de localstorage.
+- NgBuild.
+- Despliegue con Firebase Hosting.
 
-## Code scaffolding
+## Pasos para bajar el repositorio.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clonar el repo con git.
+1. Ejecutar comando **npm install**.
+1. Correr la app con **ng serve**
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Funcionamiento.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![video del funcionamiento](./readme/funcionamientoMyDayApp.gif)
